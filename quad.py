@@ -4,7 +4,7 @@ load_dotenv()  # Loading all the environment variables
 """
 
 import streamlit as st
-#import os
+import os
 import google.generativeai as genai
 import pyttsx3
 
