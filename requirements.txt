@@ -1,5 +1,4 @@
 streamlit
 google-generativeai
 python-dotenv
-pyttsx3
-libespeak
+pyttsx3==2.90
